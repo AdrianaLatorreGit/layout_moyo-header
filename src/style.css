@@ -73,7 +73,6 @@ body {
   transition: transform 0.3s ease;
 }
 
-.nav-item:hover::after,
 .nav-item.is-active::after {
   transform: scaleX(1);
 }
